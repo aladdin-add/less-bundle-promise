@@ -22,7 +22,7 @@
     "type": "git",
     "url": "git://github.com/mzohaibqc/less-bundle-promise"
   },
-  "main": "build/index.js",
+  "main": "./index.js",
   "homepage": "https://github.com/mzohaibqc/less-bundle-promise",
   "engines": {
     "node": ">=0.10.0"
